@@ -153,15 +153,15 @@ outputs/
 
 ### 🚀 Dashboard
 
-![Dashboard](images/)
+![Dashboard](images/Output%20Screenshot%2010.1.png)
 
 ### 📊 Charts
 
-![Charts](images/)
+![Charts](images/Output%20Screenshot%2010.2.png)
 
 ### 💻 CLI Output
 
-![CLI](images/)
+![CLI](images/Output%20Screenshot%209.4.png)
 
 ---
 

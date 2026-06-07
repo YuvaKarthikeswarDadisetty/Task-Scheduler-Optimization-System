@@ -1,0 +1,6 @@
+TASK SCHEDULER PERFORMANCE REPORT
+========================================
+
+Total Profit: 152
+Completed Tasks: 3
+Missed Tasks: 2
